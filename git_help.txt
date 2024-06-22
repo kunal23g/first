@@ -7,6 +7,8 @@ enter command : git init
 can check version using : git -v 
  	  status 	: git status 
 
+Create a ReadMe file add some pointers in it.
+
 
 create the file in the folder that you want to add to the git hub repository 
 
