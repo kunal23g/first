@@ -1,0 +1,21 @@
+create a folder 
+
+access that folder using a cd command 
+
+enter command : git init 
+
+can check version using : git -v 
+ 	  status 	: git status 
+
+
+create the file in the folder that you want to add to the git hub repository 
+
+add the remote origin : git remote add origin <paste the link>
+
+git add : (to add all the existing files in the folder)
+
+git commit -m "push" : to insert or push the files 
+
+git show-ref: to check all the ref error if it comes to (refs/heads/master)
+
+use command : git push origin HEAD:master 
